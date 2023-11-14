@@ -25,7 +25,7 @@ A mixed-effects model is used to explore the relationship between exercise-induc
 
 ## Dependencies
 - R (version 4.x)
-- R packages: tidyverse, ggplot2, lme4, Matrix, lattice
+- R packages: `tidyverse`, `ggplot2`, `lme4`, `Matrix`, `lattice`
 
 Install the required packages using:
 ```R
