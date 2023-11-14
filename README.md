@@ -31,3 +31,7 @@ Install the required packages using:
 ```R
 install.packages(c("tidyverse", "ggplot2", "lme4", "Matrix", "lattice"))
 `````````````````````
+
+## License
+
+This project is licensed under the MIT License.
