@@ -4,8 +4,8 @@ library(lme4)
 library(Matrix)
 library(lattice)
 
-# Read data
-df <- read.csv("C:/Users/agnie/OneDrive/Pulpit/heart.txt")
+# To read the data, use your own 'heart.csv' file location
+df <- read.csv("C:/Users/agnie/OneDrive/Pulpit/heart.csv")
 
 # Explore data
 head(df)
